@@ -11,10 +11,10 @@ int main() {
     if (grade >= 75) {
         cout << "Result: Pass" << endl;
         cout << "Congratulations!" << endl;
-        cout << "Wow Galing,Deserve mo 'yan." << endl;
+        cout << "Keep up the Goodwork." << endl;
     } else {
         cout << "Result: Fail" << endl;
-        cout << "Aww,Bawi ka nexttime." << endl;
+        cout << "Better luck nextime." << endl;
     }
 
     return 0;
